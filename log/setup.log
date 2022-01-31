@@ -1,0 +1,40 @@
+2022-01-28 06:14:09 | Ok      |       | Info - CheckPHPVersion | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | Info - php.ini file(s): 'C:\xampp\php\php.ini' | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | Info - Temporary directory for files upload (C:\xampp\tmp) is writable. | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | Info - upload_max_filesize: 1k | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | Info - post_max_size: 1000M | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | Info - max_file_uploads: 20 | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | Info - memory_limit is 512M, ok. | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | Info - session.save_path is: 'C:\xampp\tmp'. | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | The current PHP Version (7.4.27) is greater than the minimum version required to run iTop, which is (7.1.3) | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | Required PHP extension(s): dom, fileinfo, gd, hash, iconv, json, mbstring, mysqli, pcre, session, simplexml, soap, zip, zlib. | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | Optional PHP extension(s): curl, ldap, openssl. | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | Loaded php.ini files: C:\xampp\php\php.ini | SetupLog |||
+2022-01-28 06:14:09 | Ok      |       | The value for session.save_path (C:\xampp\tmp) is writable for the web server. | SetupLog |||
+2022-01-28 06:14:20 | Ok      |       | Info - CheckBackupPrerequisites | SetupLog |||
+2022-01-28 06:14:20 | Ok      |       | Info - PHP functions disabled:  | SetupLog |||
+2022-01-28 06:14:20 | Ok      |       | Info - mysqldump -V said: 'mysqldump' is not recognized as an internal or external command, | SetupLog |||
+2022-01-28 06:14:20 | Ok      |       | Info - mysqldump -V said: operable program or batch file. | SetupLog |||
+2022-01-28 06:14:21 | Info    |       | operation 'async_action', peak memory usage. 18645120 | SetupLog |||
+2022-01-28 06:14:42 | Info    |       | operation 'async_action', peak memory usage. 17772392 | SetupLog |||
+2022-01-28 06:15:18 | Info    |       | operation 'async_action', peak memory usage. 17772568 | SetupLog |||
+2022-01-28 06:15:19 | Info    |       | operation 'async_action', peak memory usage. 17772568 | SetupLog |||
+2022-01-28 06:15:34 | Info    |       | operation 'async_action', peak memory usage. 17772632 | SetupLog |||
+2022-01-28 06:15:35 | Info    |       | operation 'async_action', peak memory usage. 17772632 | SetupLog |||
+2022-01-28 06:15:37 | Info    |       | operation 'async_action', peak memory usage. 17772632 | SetupLog |||
+2022-01-28 06:15:39 | Info    |       | operation 'async_action', peak memory usage. 17772632 | SetupLog |||
+2022-01-28 06:15:51 | Info    |       | operation 'async_action', peak memory usage. 17772744 | SetupLog |||
+2022-01-28 06:16:08 | Info    |       | operation 'async_action', peak memory usage. 17772744 | SetupLog |||
+2022-01-28 06:16:10 | Info    |       | operation 'async_action', peak memory usage. 17772744 | SetupLog |||
+2022-01-28 08:39:29 | Info    |       | operation 'async_action', peak memory usage. 17772904 | SetupLog |||
+2022-01-28 08:39:29 | Info    |       | operation 'async_action', peak memory usage. 17772632 | SetupLog |||
+2022-01-28 08:39:35 | Info    |       | operation 'async_action', peak memory usage. 17772520 | SetupLog |||
+2022-01-28 08:39:37 | Info    |       | operation 'async_action', peak memory usage. 17772520 | SetupLog |||
+2022-01-28 08:39:38 | Info    |       | operation 'async_action', peak memory usage. 17772504 | SetupLog |||
+2022-01-28 08:39:39 | Info    |       | operation 'async_action', peak memory usage. 17772536 | SetupLog |||
+2022-01-28 08:47:41 | Info    |       | operation 'async_action', peak memory usage. 17772632 | SetupLog |||
+2022-01-28 08:47:43 | Info    |       | operation 'async_action', peak memory usage. 17772632 | SetupLog |||
+2022-01-28 08:47:54 | Info    |       | operation 'async_action', peak memory usage. 17772728 | SetupLog |||
+2022-01-28 08:47:55 | Info    |       | operation 'async_action', peak memory usage. 17772728 | SetupLog |||
+2022-01-28 08:48:04 | Info    |       | operation 'async_action', peak memory usage. 17772776 | SetupLog |||
+2022-01-28 08:48:05 | Info    |       | operation 'async_action', peak memory usage. 17772776 | SetupLog |||
